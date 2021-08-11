@@ -36,3 +36,5 @@ A SQL Join statement is used to combine data or rows from two or more tables bas
 ## [Data_Cleaning.sql](Data_Cleaning.sql)
 
 ![P&P](https://raw.githubusercontent.com/ptyadana/sql-for-data-analysis/master/The%20Parch%20%26%20Posey%20Database%20ERD.png)
+
+# Sources [Udacity_nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
